@@ -1,4 +1,4 @@
-###Some app reviews from last year.###
+###Some app reviews from last year###
 
 Check the wiki for the following app reviews:
 ----
