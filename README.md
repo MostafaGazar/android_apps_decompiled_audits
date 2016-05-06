@@ -9,4 +9,5 @@ Check the wiki for the following app reviews:
 
 
 **Getting in touch:**
+
 I'd love to help, get in touch with me (mmegazar+audit@gmail.com) for a free Android APK Audit or full Android Audit including your process and sourcecode.
