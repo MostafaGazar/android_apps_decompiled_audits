@@ -8,5 +8,5 @@ Check the wiki for the following app reviews:
 * [Booking \[ November 11, 2014 \]](https://github.com/MostafaGazar/apps_stripped/wiki/Booking-%5B-November-11,-2014-%5D)
 
 
-**Developed by:**
-Mostafa Gazar - mmegazar@gmail.com
+**Getting in touch:**
+I'd love to help, get in touch with me (mmegazar+audit@gmail.com) for a free Android APK Audit or full Android Audit including your process and sourcecode.
